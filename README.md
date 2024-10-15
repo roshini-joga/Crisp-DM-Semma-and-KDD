@@ -3,4 +3,6 @@
 this assignment is to do principled step by step phase by phase data science with the three methodologies
 
 Medium Link: https://medium.com/@roshini.joga/3db432dcc0bb
-Arxiv link : 
+
+
+Arxiv link : https://arxiv.org/submit/5903625/view
