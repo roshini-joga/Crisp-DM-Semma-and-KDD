@@ -2,7 +2,7 @@
 
 this assignment is to do principled step by step phase by phase data science with the three methodologies
 
-Medium Link: https://medium.com/@roshini.joga/3db432dcc0bb
+Medium Link: [https://medium.com/@roshini.joga/3db432dcc0bb](https://medium.com/@roshini.joga/lets-get-methodical-crisp-dm-semma-and-kdd-go-head-to-head-on-the-mnist-dataset-3db432dcc0bb)
 
 
 Arxiv link : https://arxiv.org/submit/5903625/view
